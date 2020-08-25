@@ -8,6 +8,10 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
 
+
+/*
+Example output:{January=28, February=10, August=2}
+*/
 public class ReadingFilesClass {
 	
 	HashMap<String,Integer> map=new HashMap<String,Integer>();
